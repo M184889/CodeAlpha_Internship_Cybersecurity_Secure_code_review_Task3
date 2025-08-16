@@ -1,0 +1,2 @@
+# CodeAlpha_Internship_Cybersecurity_Secure_code_review_Task3
+Task 3: Secure Coding Review (C# Console Application)  Description: ------------ This C# console application demonstrates secure coding practices while performing basic math calculations  and handling user inputs safely. The program prevents vulnerabilities like SQL Injection,  uses secure password handling, and follows best coding practices. 
